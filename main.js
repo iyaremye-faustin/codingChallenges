@@ -39,7 +39,7 @@ function arrayReverseRevise(arr=[]){
   }
   return arr;
 }
-sortArray([3,4,11,60,9,7,8]);
+
 function sortArray(arr=[]){
   let arrLen=arr.length;
   let min;let temp;let j;
